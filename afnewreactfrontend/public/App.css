@@ -1,0 +1,103 @@
+.navbar{
+
+    height: auto;
+    border-style: ridge;
+    border-color: #002752;
+
+}
+
+.body-slider-class{
+
+    position:absolute;
+    top: 50%;
+    left: 40%;
+    width:750px;
+    height:1250px;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em;
+}
+
+.containerForm{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width:500px;
+    height:1250px;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em;
+}
+
+.containerRegister{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width:500px;
+    height:1250px;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em;
+}
+
+.content-wrapper{
+    position: absolute;
+    top: 60px;
+    left: 4px;
+    width:1500px;
+    height:60px;
+    border-style: double;
+    border-color: #0d6aad;
+}
+
+.container-new{
+    padding-left: 50px;
+}
+
+.form-control-new{
+    display:block;
+    width:27%;
+    padding:.375rem .75rem;
+    font-size:1rem;
+    line-height:1.5;
+    color:#495057;
+    background-color:#fff;
+    background-clip:padding-box;
+    border:1px solid #ced4da;
+    border-radius:.25rem;
+    transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+.panel-body {
+    width: 1000px;
+    margin-bottom: 50px;
+
+}
+
+
+/*.Row*/
+/*{*/
+    /*display: table;*/
+    /*width: 100%; !*Optional*!*/
+    /*table-layout: fixed; !*Optional*!*/
+    /*border-spacing: 10px; !*Optional*!*/
+/*}*/
+
+/*.Column*/
+/*{*/
+    /*display: table-cell;*/
+    /*background-color: red; !*Optional*!*/
+/*}*/
+
+.ward-main{
+    width: 400px
+}
+.primary-new {
+
+    float: left;
+
+    width: 500px;
+
+}
+.content-new {
+    float: left;
+
+    width: 500px;
+}
